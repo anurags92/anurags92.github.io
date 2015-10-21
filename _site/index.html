@@ -1,61 +1,149 @@
 <!DOCTYPE html>
 <html>
+
   <head>
-    <!-- head -->
-    <meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>A personal blog</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="" />
-<link rel="icon" type="image/x-icon" href="" />
+  <title>A personal blog</title>
+  <meta name="description" content="A simple and awesome blog theme powered by jekyll. Inspired by PureCSS blog layout and build by bootstrap 4.
+">
 
-<!-- RSS -->
-<link rel="alternate" type="application/rss+xml" title="A personal blog" href="/feed.xml" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel="canonical" href="/">
+  <link rel="alternate" type="application/rss+xml" title="A personal blog" href="/feed.xml" />
+</head>
 
 
-    <!-- fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
-
-    <!-- stylesheet -->
-    <link rel="stylesheet" href="/assets/css/solarized_dark.css" />
-    <link rel="stylesheet" href="/assets/css/style.css" />
-
-    <!-- script -->
-    <script src="/assets/js/jquery-1.11.3.min.js"></script>
-    <script src="/assets/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/assets/js/script.js"></script>
-
-    
-  </head>
   <body>
 
-    <div class="footer-clear page-wrapper">
+    <div class="container-fluid" id="main-layout">
+      <div class="sidebar col-sm-12 col-md-3">
+        
 
-  <div class="page-container">
 
-    <div class="index-wrapper">
-  <a class="link-1" href="/blog/2015/08/28/jekyll-theme-book.html">post</a> /
-  <a class="link-1" href="/about/">about</a> /
+<div class="header">
+
+  
+  <div class="row visible-md-block visible-lg-block">
+    <img class="author-avatar" src="/img/avatar5.jpg" alt="anurag">
+  </div>
+  
+  <div class="row">
+    <a href="/" class="brand-title">Anurag</a>
+    <span class="brand-tagline">Lets walk in the rain</span>
+    <nav class="nav">
+      <ul class="nav-list">
+         
+        <li class="nav-item">
+          <a href="/about/">About  Me</a> <span>/</span>
+        </li>
+          
+        <li class="nav-item">
+          <a href="/archive/">Archive</a> <span>/</span>
+        </li>
+                  
+        <li class="nav-item">
+          <a href="/tags/">Tags</a>
+        </li>
+         
+      </ul>
+    </nav>
+    <div class="social-links">
+  <ul>
+    <li><a href="mailto:anurags92@gmail.com" class="social-link-item" target="_blank"><i class="fa fa-fw fa-envelope"></i></a></li>
+    <li><a href="http://twitter.com/anu30rag08" class="social-link-item" target="_blank"><i class="fa fa-fw fa-twitter"></i></a></li>
+    
+    <li><a href="http://plus.google.com/+anurags92#username" class="social-link-item" target="_blank"><i class="fa fa-fw fa-google-plus"></i> Google+</a></li>
+    
+    
+    
+    
+    <li><a href="http://github.com/anurags92" class="social-link-item" target="_blank"><i class="fa fa-fw fa-github"></i></a></li>
+    <li><a href="http://stackoverflow.com/users/2344434/anurag-sharma#123456/username   from a "http://stackoverflow.com/users/123456/username" link" class="social-link-item" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i></a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
 </div>
-
 
   </div>
 
-  <!-- footer -->
-  <div class="footer">
-  <span>&copy;</span>
-  <span><script type="text/javascript">document.write(new Date().getFullYear());</script></span>
-  <a class="link-1" href="/">A personal blog</a>
-  <br />
-  <span>Powered by <a class="link-1" href="http://jekyllrb.com/">Jekyll</a> with <a class="link-1" href="https://github.com/kkninjae/book">Book</a> theme.</span>
 </div>
 
+      </div>
+      <div class="content col-sm-12 col-md-9">
+        <div class="home">
+
+  <h1>Recent Posts</h1>
+
+  <div class="posts">
+    
+    <section class="post">
+  <header class="post-header">
+    
+      <h2>
+        <a class="post-title" href="/2015/08/21/firstly-post.html" title="First Post">First Post</a>
+      </h2>
+    
+
+    
+      
+    
+
+    <p class="post-meta">
+      By
+      <a class="post-author" href="">Anurag</a>
+      
+    </p>
+
+    </header>
+
+    <div class="post-description">
+      <p>
+        <p>Hello folks! I am starting this blog to keep track of ideas and interesting things I come across. </p>
+
+<p>Also as a medium through which I can share my personal views on some not so personal things. :) Let us see how well it goes.</p>
+
+<p>Add me on the blog rolls fellas :)</p>
+
+
+      </p>
+    </div>
+
+    
+
+</section>
+
+    
+  </div>
 
 </div>
 
+        <footer>
+
+  &copy; 2015 Anurag. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart danger-text-color"></i>
+</footer>
+
+      </div>
+    </div>
 
   </body>
+
+  <script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
 </html>

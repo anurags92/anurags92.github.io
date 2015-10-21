@@ -1,31 +1,70 @@
-title: A personal blog
-description: Footprints on the sands of time
-url: http://localhost:4000# site urls
-avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
-favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
-google_analytics: # google analytics id
-disqus_shortname: # disqus_shortname for disqus comment system
-
-# Content for about page.
-# Each paragraph will be a <p> tag which is inserted to about
-# page. text_align is used to align the text. Default is left.
-# Other two values are center and right. If there are some links
-# in your paragraph, use '?link?' to take the place of a link.
-# And then write the real link under links. name is the link
-# text. url is the link. when external is set as true, then
-# a new whidow will be open when link is clicked.
 #
-about:
-  - paragraph: Hi ! I am Anurag, currently in my senior year of undergraduate degree. I am interested in Maths, Programming and Literature. This little blog is mostly for personal use and is meant to keep track of my thoughts and writings. If you find something interesting please drop a line.
-    text_align: center
+###################################
+# Site wide configuration
+####################################
+#
+title: A personal blog
+email: anurags92@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple and awesome blog theme powered by jekyll. Inspired by PureCSS blog layout and build by bootstrap 4.
+#url: http://renyuanz.github.io/leonids # the base hostname & protocol for your site
+#
+###################################
+# Jekyll configuration
+####################################
+#
+markdown:    kramdown
+highlighter: pygments
+excerpt_separator: <!--more-->
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-#  - paragraph: This was built using the Jekyll theme ?link? built by ?link? and modified by me.
-#    text_align: center
-#    links:
-#      - name: Book
-#        url: https://github.com/kkninjae/book
-#        external: true
-#      - name: Lang Liu
-#        url: http://kkninjae.com/about/
-#        external: false
-    
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+owner:
+  name: Anurag
+  avatar: avatar2.jpg
+  bio: "Lets walk in the rain"
+  email: anurags92@gmail.com
+  disqus-shortname: renyuanzblog
+  twitter: anu30rag08 #username
+  facebook: #username
+  google:
+    plus: anurags92#username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: anurags92 #username
+  stackoverflow: 2344434/anurag-sharma#123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram:  #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
