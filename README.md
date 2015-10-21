@@ -1,4 +1,4 @@
-# Leonids Jekyll Themes
+# A personal blog
 
 This blog is made using **[Leonids](http://renyuanz.github.io/leonids)** theme.
 
