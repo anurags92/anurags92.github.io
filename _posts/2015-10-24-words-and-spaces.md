@@ -14,12 +14,12 @@ Whereas joy inside, so lean
 Do I sing the song which you listen?\\
 Or play the tune which you hum,\\
 'Cause you smile but my eyes glisten\\
-Ans matching moves fail to come
+And matching moves fail to come
 
 Letters, words, lines and prose,\\
 Shades of ink on paper they lay.\\
 Commas, stops and spaces around those,\\
-Speak the things which words can say
+Speak the things which words can't say
 
 Listen to the sounds of silence, dear\\
 Music reverberates pure and true.\\
