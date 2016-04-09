@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
 ####################################
 #
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 excerpt_separator: <!--more-->
 sass:
   sass_dir: _sass
@@ -40,7 +40,7 @@ owner:
   bio: "Lets walk in the rain"
   email: anurags92@gmail.com
   disqus-shortname: renyuanzblog
-  twitter: anu30rag08 #username
+  twitter: anu08rag #username
   facebook: #username
   google:
     plus: anurags92#username
