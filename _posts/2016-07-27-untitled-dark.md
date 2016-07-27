@@ -14,14 +14,14 @@ we as humans are capable of facing.
 Numb, inert and sickened\\
 Clutch in the stomach so tight\\
 Watching the room clock\\
-Slowly go tik tok tik tok\\
+Slowly go tik tok tik tok
 
 Easy to fight with foes\\
 Much harder with friends\\
 All your shots but some\\
-Hurt you more than them\\
+Hurt you more than them
 
 The struggle is worthless\\
 The pain is crippling\\
 Watch again the room clock\\
-Go slower tik tok tik tok\\
+Go slower tik tok tik tok
