@@ -30,4 +30,5 @@ Watch again the room clock\\
 Go slower tik tok tik tok
 
 But as with any suffering and pain, you only grow wiser and stronger. As Rumi says:
+
 >The wound is the place where the Light enters you.
