@@ -12,7 +12,7 @@ Many of my beliefs were shaken and I used to feel very helpless. I had to swallo
 back to life. The pain in chest and the weakness in knees were some physical symptoms of the emotional turmoil I was in.
 I hope this little poem conveys the intensity of emotions which we as humans are capable of facing.
 
-
+---
 
 Numb, inert and sickened\\
 Clutch in the stomach so tight\\
@@ -29,6 +29,7 @@ The pain is crippling\\
 Watch again the room clock\\
 Go slower tik tok tik tok
 
+---
 But as with any suffering and pain, you only grow wiser and stronger. As Rumi says:
 
 >The wound is the place where the Light enters you.
