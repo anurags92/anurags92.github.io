@@ -1,7 +1,7 @@
 ---
 layout: post
-title: It is 5:00 am in the morning.
-excerpt: "No redbulls please :("
+title: What drives me.
+excerpt: "Gas for my no speedlimit freeway."
 tags: [self, rant]
 modified: 2017-01-30
 comments: false
