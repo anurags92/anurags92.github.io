@@ -2,7 +2,7 @@
 layout: post
 title: What drives me.
 excerpt: "Gas for my no speedlimit freeway."
-tags: [self, rant]
+tags: [self]
 modified: 2017-01-30
 comments: false
 ---
