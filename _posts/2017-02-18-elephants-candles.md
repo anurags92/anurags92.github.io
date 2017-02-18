@@ -12,7 +12,7 @@ comments: false
 
 >Little things you do for me,\\
 >Get me smiling eye to eye.\\
->Let me behold and let this be,\\
+>Let me behold and le this be,\\
 >And clink our glasses of rye.
 
 <img src="{{ site.url }}/img/elephants2.jpg" alt="Drawing" style="width: 800px;"/>
