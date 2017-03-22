@@ -20,10 +20,13 @@ Below is a growing collection of such tidbits. I'd try adding notes to some of t
 >Than facing fearful odds,\\
 >For the ashes of his fathers,\\
 >And the temples of his gods\\
->                         - Thomas Babington Macaulay, Lays of Ancient Rome 
+>                         --- Thomas Babington Macaulay, Lays of Ancient Rome 
 
 This was one of the first quotes which I memorized. I was introduced to this poem by my late grandfather whom I idolize. 
 It speaks of patriotism and valour. Sadly I have not yet felt that kind of patriotism for the nation but I feel a strong desire to work for the poor and destitute of the country.
 
+---
+>Art is long, and Time is fleeting.
+> --- H.W. Longfellow, A psalm of life
 
 
