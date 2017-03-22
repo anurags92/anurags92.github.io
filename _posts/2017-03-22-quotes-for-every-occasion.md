@@ -26,7 +26,7 @@ This was one of the first quotes which I memorized. I was introduced to this poe
 It speaks of patriotism and valour. Sadly I have not yet felt that kind of patriotism for the nation but I feel a strong desire to work for the poor and destitute of the country.
 
 ---
->Art is long, and Time is fleeting.
+>Art is long, and Time is fleeting.\\
 > --- H.W. Longfellow, A psalm of life
 
 
