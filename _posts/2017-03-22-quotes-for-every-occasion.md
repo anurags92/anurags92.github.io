@@ -1,6 +1,6 @@
 ---
 title: Quotes to live by
-modified: 2017-03-22
+modified: 2017-03-22 00:16:52
 ---
 
 I like collecting pearls of wisdom that I come across while reading books, blogs and poems. 
