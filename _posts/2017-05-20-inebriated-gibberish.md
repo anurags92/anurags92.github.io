@@ -1,10 +1,6 @@
 ---
-layout: post
 title: Inebriated gibberish
-excerpt: "Things that alcohol does to your mind"
-tags: [self]
 modified: 2017-05-20
-comments: false
 ---
 Everything and nothing two extremes of a line or a circle? If you see from a vantage I seem to have everything but if you can somehow climb inside me and see from my head I see nothing. Music blares: Jesus of suburbia. I don’t care. I don’t care. I don’t care. Tu run, run away. To fight what you believe. 
 It feels one can never be happy and contented. All the fight is worthless just mind numbing charade we convince our mind to believe in. Maybe we weren’t meant for this. I do not feel any shame and I won’t apologise. Running away from pain. 

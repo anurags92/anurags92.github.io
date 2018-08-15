@@ -1,10 +1,6 @@
 ---
-layout: post
 title: Quotes to live by
-excerpt: "A collection of quotes which I collected overtime"
-tags: [self]
 modified: 2017-03-22
-comments: true
 ---
 
 I like collecting pearls of wisdom that I come across while reading books, blogs and poems. 

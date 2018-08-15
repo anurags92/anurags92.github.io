@@ -1,10 +1,6 @@
 ---
-layout: post
 title: Party, Party and More Party
-excerpt: "Party like Gandalf"
-tags: [self]
 modified: 2017-04-22
-comments: false
 ---
 
 
