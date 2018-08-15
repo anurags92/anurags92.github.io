@@ -11,4 +11,4 @@ And now I live in Bengaluru, where the weather is so good that you will never wa
 >My candle burns at both ends;\\
 >   It will not last the night;\\
 >But ah, my foes, and oh, my friends—\\
->   It gives a lovely light!\\
+>   It gives a lovely light!
