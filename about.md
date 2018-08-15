@@ -2,8 +2,13 @@
 title: About me
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+Hi, I am Anurag. I live in Bengaluru, India. I have always wanted to write, and this blog is my attempt at it. 
+I studied Maths and Literature at IIT Kanpur. 
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+I grew up in New Delhi, India, which is a really big and happening city and there's a really good chance you'll easily get lost in the hustle.
+And now I live in Bengaluru, where the weather is so good that you will never want to leave. 
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+>My candle burns at both ends;\\
+>   It will not last the night;\\
+>But ah, my foes, and oh, my friends—\\
+>   It gives a lovely light!\\
