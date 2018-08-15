@@ -96,62 +96,6 @@ completely unencumbered.&lt;br /&gt;
       </item>
     
       <item>
-        <title>Scribble, a Jekyll theme</title>
-        <description>&lt;p&gt;Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in.&lt;/p&gt;
-
-&lt;h2 id=&quot;get-started&quot;&gt;Get started&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble/fork&quot;&gt;Fork the repository&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Clone the repository: &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/username/scribble&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Run Jekyll: &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Go to http://localhost:4000 for your site.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;make-it-yours&quot;&gt;Make it yours&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;, adn then rerun &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Change &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; for blog intro&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For domain settings see &lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;the guide from GitHub&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; class=&quot;pa3 tc ba br2 db&quot;&gt;Get it on GitHub ♥&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
-
-&lt;p&gt;Like it? &lt;a href=&quot;http://twitter.com/muanchiou&quot;&gt;Tell me&lt;/a&gt;.&lt;br /&gt;
-Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub Issues&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Mar 2017 05:36:52 +0530</pubDate>
-        <link>http://localhost:4000/posts/scribble-the-jekyll-theme</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/scribble-the-jekyll-theme</guid>
-      </item>
-    
-      <item>
         <title>Elephant Candles</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/elephants.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
 
@@ -182,7 +126,7 @@ I have been doing over this one specially.&lt;/p&gt;
 
 &lt;p&gt;Here is pic of my desk currently :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/room2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/room2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- ![alt text](http://localhost:4000/img/room2.jpg =100x20)) --&gt;
 </description>
@@ -320,6 +264,34 @@ Go slower tik tok tik tok\&lt;/p&gt;
         <pubDate>Wed, 27 Jul 2016 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/posts/untitled-dark</link>
         <guid isPermaLink="true">http://localhost:4000/posts/untitled-dark</guid>
+      </item>
+    
+      <item>
+        <title>It happens everyday</title>
+        <description>&lt;p&gt;I saw your pic on my wall,&lt;br /&gt;
+Jitters down my spine,&lt;br /&gt;
+Blood flow did a dizzying fall,&lt;br /&gt;
+It went all cold inside.&lt;/p&gt;
+
+&lt;p&gt;Hands had mind of their own,&lt;br /&gt;
+I almost messaged you.&lt;br /&gt;
+They didn’t stop till the phone was thrown,&lt;br /&gt;
+Tang!!!!!  Crashing to the floor.&lt;/p&gt;
+
+&lt;p&gt;Heart stopped beating, something choked inside,&lt;br /&gt;
+Breath went cold and shallow.&lt;br /&gt;
+You’ll call first, to myself I lied,&lt;br /&gt;
+And closed my eyes to save myself.&lt;/p&gt;
+
+&lt;p&gt;After few long breaths, I retrieve&lt;br /&gt;
+Normalcy and sanity comes back to me.&lt;br /&gt;
+Is this the elusive love my eve?&lt;br /&gt;
+Almost like a seizure…&lt;br /&gt;
+Phew…..&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Apr 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/it-happens-everyday</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/it-happens-everyday</guid>
       </item>
     
   </channel>

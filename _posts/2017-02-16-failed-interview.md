@@ -14,6 +14,6 @@ I have to have better goals now! Would finish on the books which are lining up o
 
 Here is pic of my desk currently :)
 
-<img src="{{ site.url }}/img/room2.jpg" alt="Drawing" style="width: 500px;"/>
+<img src="{{ site.url }}/images/room2.jpg" alt="Drawing" style="width: 500px;"/>
 
 <!-- ![alt text]({{ site.url }}/img/room2.jpg =100x20)) -->
