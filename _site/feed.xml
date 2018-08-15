@@ -1,99 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A personal blog</title>
-    <description>A simple and awesome blog theme powered by jekyll. Inspired by PureCSS blog layout and build by bootstrap 4.
-</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Apr 2016 23:00:09 +0530</pubDate>
-    <lastBuildDate>Sat, 09 Apr 2016 23:00:09 +0530</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <title>Scribble</title>
+    <description>Such theme, very cool.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>It happens everyday</title>
-        <description>&lt;p&gt;I saw your pic on my wall,&lt;br /&gt;
-Jitters down my spine,&lt;br /&gt;
-Blood flow did a dizzying fall,&lt;br /&gt;
-It went all cold inside.&lt;/p&gt;
-
-&lt;p&gt;Hands had mind of their own,&lt;br /&gt;
-I almost messaged you.&lt;br /&gt;
-They didn’t stop till the phone was thrown,&lt;br /&gt;
-Tang!!!!!  Crashing to the floor.&lt;/p&gt;
-
-&lt;p&gt;Heart stopped beating, something choked inside,&lt;br /&gt;
-Breath went cold and shallow.&lt;br /&gt;
-You’ll call first, to myself I lied,&lt;br /&gt;
-And closed my eyes to save myself.&lt;/p&gt;
-
-&lt;p&gt;After few long breaths, I retrieve&lt;br /&gt;
-Normalcy and sanity comes back to me.&lt;br /&gt;
-Is this the elusive love my eve?&lt;br /&gt;
-Almost like a seizure…&lt;br /&gt;
-Phew…..&lt;/p&gt;
+        <title>Central Park Biking</title>
+        <description>&lt;p&gt;It was a fine sunday morning when me and Shivam decided to take a break from our ardous training.
+With no plans and specific places to go, we decided to take a stroll in Central Park. It is a very big park
+right in the heart of New York City. It is so big that travelling on foot would take a whole day. 
+&lt;br /&gt;
+We&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Apr 2016 00:00:00 +0530</pubDate>
-        <link>/2016/04/10/it-happens-everyday.html</link>
-        <guid isPermaLink="true">/2016/04/10/it-happens-everyday.html</guid>
-        
-        <category>literature</category>
-        
-        <category>self</category>
-        
-        <category>poem</category>
-        
-        
+        <pubDate>Mon, 16 Oct 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/central-park-biking</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/central-park-biking</guid>
       </item>
     
       <item>
-        <title>Words and Spaces</title>
-        <description>&lt;p&gt;Do I say what I say?&lt;br /&gt;
-And mean what I mean?&lt;br /&gt;
-Why my words are so gay?&lt;br /&gt;
-Whereas joy inside, so lean&lt;/p&gt;
+        <title>Inebriated gibberish</title>
+        <description>&lt;p&gt;Everything and nothing two extremes of a line or a circle? If you see from a vantage I seem to have everything but if you can somehow climb inside me and see from my head I see nothing. Music blares: Jesus of suburbia. I don’t care. I don’t care. I don’t care. Tu run, run away. To fight what you believe. 
+It feels one can never be happy and contented. All the fight is worthless just mind numbing charade we convince our mind to believe in. Maybe we weren’t meant for this. I do not feel any shame and I won’t apologise. Running away from pain.&lt;/p&gt;
 
-&lt;p&gt;Do I sing the song which you listen?&lt;br /&gt;
-Or play the tune which you hum,&lt;br /&gt;
-‘Cause you smile but my eyes glisten&lt;br /&gt;
-And matching moves fail to come&lt;/p&gt;
+&lt;p&gt;You can have anything but not everything. Read somewhere. Is this true? Can we really have anything? Does having that one thing keep us from feeling contended? You do care for others. Do other care for you? Debatable. Why take the pain? Let it be. Maybe. Will one feel whole again? Maybe you were never meant to be whole. Maybe you were always broken inside and hiding it from the world. Music blares: I heard you cry aloud.&lt;/p&gt;
 
-&lt;p&gt;Letters, words, lines and prose,&lt;br /&gt;
-Shades of ink on paper they lay.&lt;br /&gt;
-Commas, stops and spaces around those,&lt;br /&gt;
-Speak the things which words can’t say&lt;/p&gt;
+&lt;p&gt;My cries? Who answers to them. None it feels. Well so be it. If you accept this then there is so much peace no ? Like eternal peace. None to answer to. Nothing to live upto. Just peace and Cohen maybe.&lt;/p&gt;
 
-&lt;p&gt;Listen to the sounds of silence, dear&lt;br /&gt;
-Music reverberates pure and true.&lt;br /&gt;
-It says the things and says them clear,&lt;br /&gt;
-And for a change means them too…&lt;/p&gt;
+&lt;p&gt;Music blares: When I come around. When I come around.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 24 Oct 2015 00:00:00 +0530</pubDate>
-        <link>/2015/10/24/words-and-spaces.html</link>
-        <guid isPermaLink="true">/2015/10/24/words-and-spaces.html</guid>
-        
-        <category>literature</category>
-        
-        <category>self</category>
-        
-        <category>poem</category>
-        
-        
+        <pubDate>Sat, 20 May 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/inebriated-gibberish</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/inebriated-gibberish</guid>
       </item>
     
       <item>
-        <title>First Post</title>
-        <description>&lt;p&gt;Hello folks! I am starting this blog to keep track of ideas and interesting things I come across. &lt;/p&gt;
+        <title>Party, Party and More Party</title>
+        <description>&lt;p&gt;Recently I have been feeling a constant need to party all day-night long. Going on a vacation to far off lands and getting wasted. Crazily dancing with strangers, puffing on hill tops, mountain bike rides in long forlorn paths, lying on sun soaked beaches, banging heads in Tomorrowlands, roaming streets in Amsterdam, Mushrooms in Mysore are few of the things I have been dreaming for some nights now. One of the major problem is to find the “right” set of people to do all this with.&lt;/p&gt;
 
-&lt;p&gt;Also as a medium through which I can share my personal views on some not so personal things. :) Let us see how well it goes.&lt;/p&gt;
+&lt;p&gt;How should I plan towards this? As I start my job in few months I would be pushed into a work-life where it is difficult to live with abandon. Halcyon days of college and school are almost gone for good then. I’d have more financial independence but less independence on what to do with that extra monies.&lt;/p&gt;
 
-&lt;p&gt;Add me on the blog rolls fellas :)&lt;/p&gt;
+&lt;p&gt;I’d be touching 25 soon. Thats kind of old no? Where is all the ecstasy I worked towards? And when would come a time where I can party as much as I want without guilt tripping myself. I think I have found a way to do all that I “want” to do and all that I “need” to do. Waiting for a time to come where I can party is futile. John Lenon — “Life is what happens to you while you are busy making other plans.”&lt;/p&gt;
+
+&lt;p&gt;This day today is what I have got and I need to fill it with all the passion and life-juice I have it in me. I am all for Fighting - Fighting and Fighting more. This time my Fight is for Party.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 Aug 2015 20:37:19 +0530</pubDate>
-        <link>/2015/08/21/firstly-post.html</link>
-        <guid isPermaLink="true">/2015/08/21/firstly-post.html</guid>
-        
-        
+        <pubDate>Sat, 22 Apr 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/party-party-and-party</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/party-party-and-party</guid>
+      </item>
+    
+      <item>
+        <title>Quotes to live by</title>
+        <description>&lt;p&gt;I like collecting pearls of wisdom that I come across while reading books, blogs and poems. 
+Below is a growing collection of such tidbits. I’d try adding notes to some of the quotes which really struck me at some point of time or helped me in a difficult phase of life.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then out spake brave Horatius,&lt;br /&gt;
+The Captain of the Gate:&lt;br /&gt;
+To every man upon this earth&lt;br /&gt;
+Death cometh soon or late.&lt;br /&gt;
+And how can man die better&lt;br /&gt;
+Than facing fearful odds,&lt;br /&gt;
+For the ashes of his fathers,&lt;br /&gt;
+And the temples of his gods&lt;br /&gt;
+                        — Thomas Babington Macaulay, Lays of Ancient Rome&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was one of the first quotes which I memorized. I was introduced to this poem by my late grandfather whom I idolize. 
+It speaks of patriotism and valour. Sadly I have not yet felt that kind of patriotism for the nation but I feel a strong desire to work for the poor and destitute of the country.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Art is long, and Time is fleeting.&lt;br /&gt;
+— H.W. Longfellow, A psalm of life&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It’s dark because you are trying too hard.&lt;br /&gt;
+Lightly child, lightly. Learn to do everything lightly.&lt;br /&gt;
+Yes, feel lightly even though you’re feeling deeply.&lt;br /&gt;
+Just lightly let things happen and lightly cope with them.&lt;/p&gt;
+
+  &lt;p&gt;I was so preposterously serious in those days, such a humorless little prig.&lt;br /&gt;
+Lightly, lightly – it’s the best advice ever given me.&lt;br /&gt;
+When it comes to dying even. Nothing ponderous, or portentous, or emphatic.&lt;br /&gt;
+No rhetoric, no tremolos,&lt;br /&gt;
+no self conscious persona putting on its celebrated imitation of Christ or Little Nell.&lt;br /&gt;
+And of course, no theology, no metaphysics.&lt;br /&gt;
+Just the fact of dying and the fact of the clear light.&lt;/p&gt;
+
+  &lt;p&gt;So throw away your baggage and go forward.&lt;br /&gt;
+There are quicksands all about you, sucking at your feet,&lt;br /&gt;
+trying to suck you down into fear and self-pity and despair.&lt;br /&gt;
+That’s why you must walk so lightly.&lt;br /&gt;
+Lightly my darling,&lt;br /&gt;
+on tiptoes and no luggage,&lt;br /&gt;
+not even a sponge bag,&lt;br /&gt;
+completely unencumbered.&lt;br /&gt;
+— Aldous Huxley, Island&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Wed, 22 Mar 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/quotes-for-every-occasion</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/quotes-for-every-occasion</guid>
+      </item>
+    
+      <item>
+        <title>Scribble, a Jekyll theme</title>
+        <description>&lt;p&gt;Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-started&quot;&gt;Get started&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble/fork&quot;&gt;Fork the repository&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Clone the repository: &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/username/scribble&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run Jekyll: &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to http://localhost:4000 for your site.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;make-it-yours&quot;&gt;Make it yours&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;, adn then rerun &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve -w&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; for blog intro&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For domain settings see &lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;the guide from GitHub&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; class=&quot;pa3 tc ba br2 db&quot;&gt;Get it on GitHub ♥&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
+
+&lt;p&gt;Like it? &lt;a href=&quot;http://twitter.com/muanchiou&quot;&gt;Tell me&lt;/a&gt;.&lt;br /&gt;
+Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 05:36:52 +0530</pubDate>
+        <link>http://localhost:4000/posts/scribble-the-jekyll-theme</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/scribble-the-jekyll-theme</guid>
+      </item>
+    
+      <item>
+        <title>Elephant Candles</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/elephants.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Little things you do for me,&lt;br /&gt;
+Get me smiling eye to eye.&lt;br /&gt;
+Let me behold and let this be,&lt;br /&gt;
+And clink our glasses of rye.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/elephants2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Feb 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/elephants-candles</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/elephants-candles</guid>
+      </item>
+    
+      <item>
+        <title>Failed interview</title>
+        <description>&lt;p&gt;Okay, last weekend I flunked an interview. It was the usual tech interview with not so difficult question. 
+But I have been berating myself a lot for flunking that. It is not the first time I have done bad in such
+an interview. I have a knack for such failures too. Haha. I am writing this post to put an end to the cribbing 
+I have been doing over this one specially.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Muskan for being there. She is such a gem and always has the best idioms to poke fun at me.&lt;/p&gt;
+
+&lt;p&gt;I have to have better goals now! Would finish on the books which are lining up on my desk.&lt;/p&gt;
+
+&lt;p&gt;Here is pic of my desk currently :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/room2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- ![alt text](http://localhost:4000/img/room2.jpg =100x20)) --&gt;
+</description>
+        <pubDate>Thu, 16 Feb 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/failed-interview</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/failed-interview</guid>
+      </item>
+    
+      <item>
+        <title>What drives me.</title>
+        <description>&lt;p&gt;I have been thinking a lot recently about what makes me go all guns blazing towards a project. 
+It is easy to do that on Day 1 but what is more interesting to me is how should I keep myself motivated and enthusiastic on Day 19 when I am facing a compiler issues on an archaic library which had last update in middle of November 2013. 
+I also want to find behaviour patterns and cycle of thoughts that get me going.&lt;/p&gt;
+
+&lt;p&gt;Towards this goal I have zeroed on somethings which are crucial for me and keep my morals high.
+I’d keep on adding things to this list as I understand myself more and can test the habits/routines.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A big overarching goal. Being an ENFP by characteristic I am always motivated by the bigger picture. I want to go for moonshots. This is a plus and a minus at the same time. But this post is not about discussing the merits of the things which drive me. I need the project goal to be substantiative and have real impact on the society or the team or the business for which I am working.&lt;/li&gt;
+  &lt;li&gt;Constant loop of feedback. I really like when I get regular feedback on the product/project I am building. This goes on to the level that I have been awake on countless nights pursuing a target when the person I was reporting to took real interest in the work and give me great feedback.&lt;/li&gt;
+  &lt;li&gt;I have a soft corner for the poor and disadvantaged people. It is to the extent that I get very emotional when I see anyone having money issues. So anything on which I am working helps alleviate that drives me insanely. So rather than working on something for personal gratification, I like to work on something for the others. It is not uncommon but recently I have seen that not many people are motivated in this way. So this is kind of unique to me in a way.&lt;/li&gt;
+  &lt;li&gt;I like to work on things which are presentable in a way. That is to say that I like building pipelines, dashboards as much as I like doing data modelling or machine learning. It gives me a feel of having end to end control and I think I have a fairly decent understanding of what the user of my product would like to see. Therefore I crave for full product development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Right now I can think of only these. Would update more as and when I feel like :) .&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/what-drives-me</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/what-drives-me</guid>
+      </item>
+    
+      <item>
+        <title>It is 5:00 am in the morning.</title>
+        <description>&lt;p&gt;Yes it is 5:00 am in the morning of January 30, 2017. This is turning out to be the heaviest semester of my undergraduate studies in college. 
+Pity that it is also the last one. 
+I have a presentation due tomorrow for Lambda Calculus. 
+After that I am due on assignments for Non Linear Regression, Inference and Integral Equations. I am also caught up in “data science consultancy” service (which I like to call it) which I provide to this awesome thing my friends at GS are doing. Feminist theory and literature has a play to read and discuss and I need to start thinking concretely on the upcoming project on Data in Feminism and vice - versa. This week also start lectures on Galois Theory.&lt;/p&gt;
+
+&lt;p&gt;My semester has become a potpourri of Statistics, Abstract maths, data science and feminism. Wish it gave good fragrance at the least. Help me save the shire!&lt;/p&gt;
+
+&lt;p&gt;Gosh, I am hamlet on attending a wedding ceremony. 
+To be or not to be.&lt;/p&gt;
+
+&lt;p&gt;I also need to handle the bookings to Amsterdam and Brussels.
+J-1 Visa application also needs to be taken care of.&lt;/p&gt;
+
+&lt;p&gt;I am feeling bad because I am missing my workouts because of all this. How long can this be sustained? I should come up with a working plan for this.&lt;/p&gt;
+
+&lt;p&gt;For first time this load has become scary to say the least. It feels like I am back in a crazy semester and want few more hours everyday.&lt;/p&gt;
+
+&lt;p&gt;Note to self: Never rely on RedBulls to help you in assignments. I drank two cans straight and now my eyes are puffy and wanna sleep but here I am frantically writing this blog post which no one is gonna read.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/in-the-morning</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/in-the-morning</guid>
+      </item>
+    
+      <item>
+        <title>A list of personal values</title>
+        <description>&lt;p&gt;Here is a small post inspired by this &lt;a href=&quot;http://www.kennethreitz.org/values/&quot;&gt;one&lt;/a&gt;. Idea is to have a core set of values
+which form an underlying cushion for all the decisions I make especially the 
+crucial and difficult ones. Readers are welcome to comment some of the values which
+have held them through tough spots. It would be incredible to have some anecdotes too. 
+I’d try adding some for mine.&lt;/p&gt;
+
+&lt;p&gt;So in no particular order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Simple is good, complicated is bad.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Differentiate yourself from others.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run from negativity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stay happy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Disciplined life makes you feel good about yourself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Life’s not a race, but there’s no speed limit either.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be genuinely interested in people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unshakeable self-confidence and unfaltering enthusiasm is key to winning battles we fight.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 29 Aug 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/personal-values</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/personal-values</guid>
       </item>
     
   </channel>

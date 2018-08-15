@@ -1,70 +1,22 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: A personal blog
-email: anurags92@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A simple and awesome blog theme powered by jekyll. Inspired by PureCSS blog layout and build by bootstrap 4.
-#url: http://renyuanz.github.io/leonids # the base hostname & protocol for your site
-#
-###################################
-# Jekyll configuration
-####################################
-#
-markdown:    kramdown
-highlighter: rouge
-excerpt_separator: <!--more-->
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+# ----------- CONFIGURABLE START -----------
+title:            "Scribble"
+description:      "Such theme, very cool."
+url:              http://scribble.muan.co # Site url, without a slash at the end.
+signoff:          "muan" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         About me
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-owner:
-  name: Anurag
-  avatar: avatar2.jpg
-  bio: "Lets walk in the rain"
-  email: anurags92@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: anu08rag #username
-  facebook: #username
-  google:
-    plus: anurags92#username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: anurags92 #username
-  stackoverflow: 2344434/anurag-sharma#123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram:  #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
