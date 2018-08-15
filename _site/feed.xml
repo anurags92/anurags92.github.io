@@ -7,19 +7,6 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Central Park Biking</title>
-        <description>&lt;p&gt;It was a fine sunday morning when me and Shivam decided to take a break from our ardous training.
-With no plans and specific places to go, we decided to take a stroll in Central Park. It is a very big park
-right in the heart of New York City. It is so big that travelling on foot would take a whole day. 
-&lt;br /&gt;
-We&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/posts/central-park-biking</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/central-park-biking</guid>
-      </item>
-    
-      <item>
         <title>Inebriated gibberish</title>
         <description>&lt;p&gt;Everything and nothing two extremes of a line or a circle? If you see from a vantage I seem to have everything but if you can somehow climb inside me and see from my head I see nothing. Music blares: Jesus of suburbia. I don’t care. I don’t care. I don’t care. Tu run, run away. To fight what you believe. 
 It feels one can never be happy and contented. All the fight is worthless just mind numbing charade we convince our mind to believe in. Maybe we weren’t meant for this. I do not feel any shame and I won’t apologise. Running away from pain.&lt;/p&gt;
@@ -166,7 +153,7 @@ Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub I
     
       <item>
         <title>Elephant Candles</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/elephants.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/elephants.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Little things you do for me,&lt;br /&gt;
@@ -175,7 +162,7 @@ Let me behold and let this be,&lt;br /&gt;
 And clink our glasses of rye.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/elephants2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/elephants2.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Feb 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/posts/elephants-candles</link>
@@ -293,6 +280,46 @@ I’d try adding some for mine.&lt;/p&gt;
         <pubDate>Mon, 29 Aug 2016 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/posts/personal-values</link>
         <guid isPermaLink="true">http://localhost:4000/posts/personal-values</guid>
+      </item>
+    
+      <item>
+        <title>Clock Tik Tok</title>
+        <description>&lt;p&gt;I wrote this poem when I was going through a very low phase in life.
+Many of my beliefs were shaken and I used to feel very helpless. I had to swallow a lot of pride and crawl 
+back to life. The pain in chest and the weakness in knees were some physical symptoms of the emotional turmoil I was in.
+I hope this little poem conveys the intensity of emotions which we as humans are capable of facing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: center; width: 400px;&quot; src=&quot;http://localhost:4000/images/dark_clock.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- &lt;img src=&quot;http://localhost:4000/img/dark_clock.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 500px;&quot;/&gt; --&gt;
+
+&lt;p&gt;Numb, inert and sickened&lt;br /&gt;
+Clutch in the stomach so tight&lt;br /&gt;
+Watching the room clock&lt;br /&gt;
+Slowly go tik tok tik tok&lt;/p&gt;
+
+&lt;p&gt;Easy to fight with foes&lt;br /&gt;
+Much harder with friends&lt;br /&gt;
+All your shots but some&lt;br /&gt;
+Hurt you more than them&lt;/p&gt;
+
+&lt;p&gt;The struggle is worthless&lt;br /&gt;
+The pain is crippling&lt;br /&gt;
+Watch again the room clock&lt;br /&gt;
+Go slower tik tok tik tok\&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;But as with any suffering and pain, you only grow wiser and stronger. As Rumi says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The wound is the place where the Light enters you.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/untitled-dark</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/untitled-dark</guid>
       </item>
     
   </channel>

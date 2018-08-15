@@ -1,6 +1,6 @@
 ---
 title: Elephant Candles
-modified: 2017-02-16 08:08:92
+modified: 2017-02-16 08:08
 ---
 
 <img src="{{ site.url }}/images/elephants.jpg" alt="Drawing" style="width: 800px;"/>
