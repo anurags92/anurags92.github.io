@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Anu Scribbles"
 description:      "Scribble, fiddle, drool..."
-url:              http://anurags92.github.io # Site url, without a slash at the end.
+url:              https://anurags92.github.io # Site url, without a slash at the end.
 signoff:          "Anu" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-120512630-2# Set tracking, remove from /javascripts/basic.js if unwanted.
