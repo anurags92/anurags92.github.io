@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scribble</title>
-    <description>Such theme, very cool.</description>
+    <title>Anu Scribbles</title>
+    <description>Scribble, fiddle, drool...</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A year (decade) in review</title>
+        <description>&lt;p&gt;Year 2019 in review.&lt;/p&gt;
+
+&lt;p&gt;It feels good to be back to blogging after an almost two year long hiatus. 2019 is special in a sense that it wraps a very formative decade for me. I finished my high-school, university and started a career all in this decade.
+It also feels special because almost all my lasting relationships (romantic and non-romantic) were formed in this decade. I am very thankful for having come across such a wonderful bunch of folks and really cherish having them around.&lt;/p&gt;
+
+&lt;p&gt;As the decade comes to the wrap I want to note three things which I learnt from three very special people:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;From S: Being assertive when the need comes.&lt;/li&gt;
+  &lt;li&gt;From M: Being selfless and caring in love.&lt;/li&gt;
+  &lt;li&gt;From L: Being a fighter and not settling for less than what you think you deserve.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My lifestyle and choices in past few years have also made me understand few basic principles I like to live with. I like simplicity in design, code, and conversations. I like when people don’t have to second guess what I mean when I say something and consequently I do not like to be forced to second guess people and their actions. 
+Another idea which has been going around my mind for sometime is that I want to work for a greater purpose than just for myself. In someways if my work and skills could impact the nation or the society in a positive way would bring a lot more fulfillment for me.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/year-review-2019</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/year-review-2019</guid>
+      </item>
     
       <item>
         <title>Inebriated gibberish</title>
@@ -264,34 +286,6 @@ Go slower tik tok tik tok\&lt;/p&gt;
         <pubDate>Wed, 27 Jul 2016 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/posts/untitled-dark</link>
         <guid isPermaLink="true">http://localhost:4000/posts/untitled-dark</guid>
-      </item>
-    
-      <item>
-        <title>It happens everyday</title>
-        <description>&lt;p&gt;I saw your pic on my wall,&lt;br /&gt;
-Jitters down my spine,&lt;br /&gt;
-Blood flow did a dizzying fall,&lt;br /&gt;
-It went all cold inside.&lt;/p&gt;
-
-&lt;p&gt;Hands had mind of their own,&lt;br /&gt;
-I almost messaged you.&lt;br /&gt;
-They didn’t stop till the phone was thrown,&lt;br /&gt;
-Tang!!!!!  Crashing to the floor.&lt;/p&gt;
-
-&lt;p&gt;Heart stopped beating, something choked inside,&lt;br /&gt;
-Breath went cold and shallow.&lt;br /&gt;
-You’ll call first, to myself I lied,&lt;br /&gt;
-And closed my eyes to save myself.&lt;/p&gt;
-
-&lt;p&gt;After few long breaths, I retrieve&lt;br /&gt;
-Normalcy and sanity comes back to me.&lt;br /&gt;
-Is this the elusive love my eve?&lt;br /&gt;
-Almost like a seizure…&lt;br /&gt;
-Phew…..&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Apr 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/posts/it-happens-everyday</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/it-happens-everyday</guid>
       </item>
     
   </channel>
